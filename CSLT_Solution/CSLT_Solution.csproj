@@ -10,7 +10,6 @@
   <ItemGroup>
     <Folder Include="Baitap3\" />
     <Folder Include="Baitap4\" />
-    <Folder Include="Baitap6\" />
     <Folder Include="Baitap7\" />
     <Folder Include="Baitap2\" />
     <Folder Include="Baitap1\" />
